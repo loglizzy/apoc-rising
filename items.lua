@@ -1,202 +1,291 @@
 return {
     [1001] = {
-		"http://www.roblox.com/asset/?id=105624953",
-		"Mosin-Nagant",
-		"Although old, this Mosin-Nagant rifle is effective at long range and powerful, but has a slow rate of fire. Uses a 7.62x54mm round with a five-round magazine."},
+		"http://www.roblox.com/asset/?id=105624953","Mosin-Nagant","Although old, this Mosin-Nagant rifle is effective at long range and powerful, but has a slow rate of fire. Uses a 7.62x54mm round with a five-round magazine."},
 	[1002] = {
-		"http://www.roblox.com/asset/?id=105624960",
-		"Shotgun",
-		"A 12-gauge double-barreled shotgun. This weapon is very powerful at close range, but has a slow rate of fire."},
+		"http://www.roblox.com/asset/?id=105624960","Shotgun","A 12-gauge double-barreled shotgun. This weapon is very powerful at close range, but has a slow rate of fire."},
 	[1003] = {
-		"http://www.roblox.com/asset/?id=116674232",
-		"AK-47",
-		"The AK-47 is a high-powered assault rifle effective at medium range. Uses a 7.62 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674232","AK-47","The AK-47 is a high-powered assault rifle effective at medium range. Uses a 7.62 x 39mm round."},
 	[1004] = {
-		"http://www.roblox.com/asset/?id=105624893",
-		"M4A1",
-		"The M4A1 is a powerful assault rifle effective at long range. Compatible with 5.56 x 45mm STANAG magazines."},
+		"http://www.roblox.com/asset/?id=105624893","M4A1","The M4A1 is a powerful assault rifle effective at long range. Compatible with 5.56 x 45mm STANAG magazines."},
 	[1005] = {
-		"http://www.roblox.com/asset/?id=110672006",
-		"Mk 48",
-		"The Mk 48 is a lightweight machine gun capable of devastation on a large scale effective at medium range. Uses a 7.62x51mm round with a 100-round box magazine."},
+		"http://www.roblox.com/asset/?id=110672006","Mk 48","The Mk 48 is a lightweight machine gun capable of devastation on a large scale effective at medium range. Uses a 7.62x51mm round with a 100-round box magazine."},
 	[1006] = {
-		"http://www.roblox.com/asset/?id=105624890",
-		"M1 Garand",
-		"The M1 Garand is a semi-automatic rifle effective at long range. Uses a 7.62 x 63mm round with an eight-round 'en bloc' clip. No longer comes in pink."},
+		"http://www.roblox.com/asset/?id=105624890","M1 Garand","The M1 Garand is a semi-automatic rifle effective at long range. Uses a 7.62 x 63mm round with an eight-round 'en bloc' clip. No longer comes in pink."},
 	[1010] = {
-		"http://www.roblox.com/asset/?id=105624921",
-		"Maverick",
-		"The Maverick 88 is a 20-gauge hunting shotgun effective at short range."},
+		"http://www.roblox.com/asset/?id=105624921","Maverick","The Maverick 88 is a 20-gauge hunting shotgun effective at short range."},
 	[1011] = {
-		"http://www.roblox.com/asset/?id=105624907",
-		"M870",
-		"The Remington M870 is a 12-gauge tactical shotgun effective at short range."},
+		"http://www.roblox.com/asset/?id=105624907","M870","The Remington M870 is a 12-gauge tactical shotgun effective at short range."},
 	[1012] = {
-		"http://www.roblox.com/asset/?id=105624948",
-		"MP5",
-		"The MP5 is a tactical submachine gun effective at medium range. Uses a 9 x 19mm round with a 30-round magazine."},
+		"http://www.roblox.com/asset/?id=105624948","MP5","The MP5 is a tactical submachine gun effective at medium range. Uses a 9 x 19mm round with a 30-round magazine."},
 	[1015] = {
-		"http://www.roblox.com/asset/?id=105624877",
-		"Enfield",
-		"The Lee Enfield is a bolt-action rifle effective at long range. Uses a 7.7 x 56mm round with a 10-round magazine."},
+		"http://www.roblox.com/asset/?id=105624877","Enfield","The Lee Enfield is a bolt-action rifle effective at long range. Uses a 7.7 x 56mm round with a 10-round magazine."},
 	[1016] = {
-		"http://www.roblox.com/asset/?id=110657188",
-		"M14",
-		"The M14 is a powerful automatic rifle effective at long range. Uses a 7.62 x 51mm round with a 20-round magazine."},
+		"http://www.roblox.com/asset/?id=110657188","M14","The M14 is a powerful automatic rifle effective at long range. Uses a 7.62 x 51mm round with a 20-round magazine."},
 	[1017] = {
-		"http://www.roblox.com/asset/?id=105624880",
-		"Fedorov",
-		"The Fedorov Avtomat is a powerful Soviet-era assault rifle effective at medium range. Uses a 6.5x50mm round with a 25-round magazine."},
+		"http://www.roblox.com/asset/?id=105624880","Fedorov","The Fedorov Avtomat is a powerful Soviet-era assault rifle effective at medium range. Uses a 6.5x50mm round with a 25-round magazine."},
 	[1018] = {
-		"http://www.roblox.com/asset/?id=105624964",
-		"SKS",
-		"The SKS is a Soviet-era semi-automatic rifle effective at long range. Uses a 7.62 x 39mm round with a 10-round magazine."},
+		"http://www.roblox.com/asset/?id=105624964","SKS","The SKS is a Soviet-era semi-automatic rifle effective at long range. Uses a 7.62 x 39mm round with a 10-round magazine."},
 	[1019] = {
-		"http://www.roblox.com/asset/?id=105624955",
-		"PPSH",
-		"The PPSH is a Soviet-era submachine gun effective at short range. Uses a 7.62 x 25mm round with a 35-round magazine."},
+		"http://www.roblox.com/asset/?id=105624955","PPSH","The PPSH is a Soviet-era submachine gun effective at short range. Uses a 7.62 x 25mm round with a 35-round magazine."},
 	[1021] = {
-		"http://www.roblox.com/asset/?id=583466574",
-		"Patriot",
-		"The 'Patriot' is a modified XM16E1 rifle with a short barrel and no rear stock. Uses 5.56 x 45mm ammunition."},
+		"http://www.roblox.com/asset/?id=583466574","Patriot","The 'Patriot' is a modified XM16E1 rifle with a short barrel and no rear stock. Uses 5.56 x 45mm ammunition."},
 	[1022] = {
-		"http://www.roblox.com/asset/?id=108375342",
-		"SCAR-L",
-		"The SCAR-L is a powerful assault rifle effective at long range. Compatible with 5.56 x 45mm STANAG magazines."},
+		"http://www.roblox.com/asset/?id=108375342","SCAR-L","The SCAR-L is a powerful assault rifle effective at long range. Compatible with 5.56 x 45mm STANAG magazines."},
 	[1023] = {
-		"http://www.roblox.com/asset/?id=108375339",
-		"G36K",
-		"The G36K is a powerful assault rifle effective at long range. Compatible with 5.56 x 45mm STANAG magazines."},
+		"http://www.roblox.com/asset/?id=108375339","G36K","The G36K is a powerful assault rifle effective at long range. Compatible with 5.56 x 45mm STANAG magazines."},
 	[1024] = {
-		"http://www.roblox.com/asset/?id=108400580",
-		"M249",
-		"The M249 is a powerful light machine gun effective at long range. Uses a 5.56 x 45mm M249 box magazine."},
+		"http://www.roblox.com/asset/?id=108400580","M249","The M249 is a powerful light machine gun effective at long range. Uses a 5.56 x 45mm M249 box magazine."},
 	[1025] = {
-		"http://www.roblox.com/asset/?id=108235165",
-		"Auto-5",
-		"The Auto-5 is a semi-automatic shotgun effective at short range. Uses 20-gauge pellets."},
+		"http://www.roblox.com/asset/?id=108235165","Auto-5","The Auto-5 is a semi-automatic shotgun effective at short range. Uses 20-gauge pellets."},
 	[1026] = {
-		"http://www.roblox.com/asset/?id=108375353",
-		"PP-19",
-		"The PP-19 submachine gun is a powerful military weapon effective at long range. Uses a 9 x 18mm round with a 64-round magazine."},
+		"http://www.roblox.com/asset/?id=108375353","PP-19","The PP-19 submachine gun is a powerful military weapon effective at long range. Uses a 9 x 18mm round with a 64-round magazine."},
 	[1027] = {
-		"http://www.roblox.com/asset/?id=108235184",
-		"M1014",
-		"The M1014 is a powerful military shotgun effective at short range. Uses 12-gauge pellets."},
+		"http://www.roblox.com/asset/?id=108235184","M1014","The M1014 is a powerful military shotgun effective at short range. Uses 12-gauge pellets."},
 	[1028] = {
-		"http://www.roblox.com/asset/?id=108375358",
-		"M3",
-		"The M3 Grease Gun is a World War II-era submachine gun effective at medium range. Uses a 9 x 19mm round with a 30-round magazine."},
+		"http://www.roblox.com/asset/?id=108375358","M3","The M3 Grease Gun is a World War II-era submachine gun effective at medium range. Uses a 9 x 19mm round with a 30-round magazine."},
 	[1029] = {
-		"http://www.roblox.com/asset/?id=116674256",
-		"FAL",
-		"The FAL is a powerful battle rifle effective at long range. Uses a 7.62 x 51mm round."},
+		"http://www.roblox.com/asset/?id=116674256","FAL","The FAL is a powerful battle rifle effective at long range. Uses a 7.62 x 51mm round."},
 	[1030] = {
-		"http://www.roblox.com/asset/?id=117005560",
-		"G3",
-		"The G3 is a powerful battle rifle effective at long range. Uses a 7.62 x 51mm round."},
+		"http://www.roblox.com/asset/?id=117005560","G3","The G3 is a powerful battle rifle effective at long range. Uses a 7.62 x 51mm round."},
 	[1031] = {
-		"http://www.roblox.com/asset/?id=116674269",
-		"Mk 17",
-		"The Mk 17 is a powerful and accurate battle rifle effective at long range. Uses a 7.62 x 51mm round."},
+		"http://www.roblox.com/asset/?id=116674269","Mk 17","The Mk 17 is a powerful and accurate battle rifle effective at long range. Uses a 7.62 x 51mm round."},
 	[1032] = {
-		"http://www.roblox.com/asset/?id=116674263",
-		"HK21",
-		"The HK21 is a powerful light machine gun effective at medium range. Uses a 7.62 x 51mm round."},
+		"http://www.roblox.com/asset/?id=116674263","HK21","The HK21 is a powerful light machine gun effective at medium range. Uses a 7.62 x 51mm round."},
 	[1033] = {
-		"http://www.roblox.com/asset/?id=116674265",
-		"HK417",
-		"The HK417 is a powerful battle rifle effective at long range. Uses a 7.62 x 51mm round."},
+		"http://www.roblox.com/asset/?id=116674265","HK417","The HK417 is a powerful battle rifle effective at long range. Uses a 7.62 x 51mm round."},
 	[1034] = {
-		"http://www.roblox.com/asset/?id=116674277",
-		"RPK",
-		"The RPK is a powerful light machine gun effective at medium range. Uses a 7.62 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674277","RPK","The RPK is a powerful light machine gun effective at medium range. Uses a 7.62 x 39mm round."},
 	[1035] = {
-		"http://www.roblox.com/asset/?id=116674227",
-		"AK-12",
-		"The AK-12 is a modern assault rifle effective at medium range. Uses a 7.62 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674227","AK-12","The AK-12 is a modern assault rifle effective at medium range. Uses a 7.62 x 39mm round."},
 	[1036] = {
-		"http://www.roblox.com/asset/?id=116674273",
-		"OTs-14",
-		"The OTs-14 is a funny-looking, yet powerful submachine gun effective at medium range. Uses a 7.62 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674273","OTs-14","The OTs-14 is a funny-looking, yet powerful submachine gun effective at medium range. Uses a 7.62 x 39mm round."},
 	[1037] = {
-		"http://www.roblox.com/asset/?id=116674241",
-		"AK-104",
-		"The AK-104 is a modern assault rifle effective at medium range. Uses a 7.62 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674241","AK-104","The AK-104 is a modern assault rifle effective at medium range. Uses a 7.62 x 39mm round."},
 	[1038] = {
-		"http://www.roblox.com/asset/?id=116674244",
-		"AKM",
-		"The AKM is a modernized variant of the AK-47 effective at medium range. Uses a 7.62 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674244","AKM","The AKM is a modernized variant of the AK-47 effective at medium range. Uses a 7.62 x 39mm round."},
 	[1039] = {
-		"http://www.roblox.com/asset/?id=116674235",
-		"AK-74",
-		"The AK-74 is an assault rifle effective at medium range. Uses a 5.45 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674235","AK-74","The AK-74 is an assault rifle effective at medium range. Uses a 5.45 x 39mm round."},
 	[1040] = {
-		"http://www.roblox.com/asset/?id=116674252",
-		"AN-94",
-		"The AN-94 is a powerful, modern assault rifle effective at medium range. Uses a 5.45 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674252","AN-94","The AN-94 is a powerful, modern assault rifle effective at medium range. Uses a 5.45 x 39mm round."},
 	[1041] = {
-		"http://www.roblox.com/asset/?id=116674248",
-		"AKS-74U",
-		"The AKS-74U is a submachine gun variant of the AK-74 Assault Rifle effective at medium range. Uses a 5.45 x 39mm round."},
+		"http://www.roblox.com/asset/?id=116674248","AKS-74U","The AKS-74U is a submachine gun variant of the AK-74 Assault Rifle effective at medium range. Uses a 5.45 x 39mm round."},
 	[2002] = {
-		"http://www.roblox.com/asset/?id=105624909",
-		"M1911",
-		"This Colt M1911 is a high-powered pistol effective at medium range. Uses a .45 caliber round with a seven-round magazine."},
+		"http://www.roblox.com/asset/?id=105624909","M1911","This Colt M1911 is a high-powered pistol effective at medium range. Uses a .45 caliber round with a seven-round magazine."},
 	[2003] = {
-		"http://www.roblox.com/asset/?id=105624915",
-		"Makarov",
-		"The Makarov pistol is a lightweight pistol effective at close range. Uses a 9 x 18mm round with an eight-round magazine."},
+		"http://www.roblox.com/asset/?id=105624915","Makarov","The Makarov pistol is a lightweight pistol effective at close range. Uses a 9 x 18mm round with an eight-round magazine."},
 	[2004] = {
-		"http://www.roblox.com/asset/?id=105624897",
-		"M9",
-		"The Beretta M9 is a high-capacity handgun effective at medium range. Uses a 9 x 19mm round."},
+		"http://www.roblox.com/asset/?id=105624897","M9","The Beretta M9 is a high-capacity handgun effective at medium range. Uses a 9 x 19mm round."},
 	[2005] = {
-		"http://www.roblox.com/asset/?id=105624969",
-		"TEC-9",
-		"This fully automatic Intratec TEC-9 is a powerful handgun effective at close range. Uses a 9 x 19mm round."},
+		"http://www.roblox.com/asset/?id=105624969","TEC-9","This fully automatic Intratec TEC-9 is a powerful handgun effective at close range. Uses a 9 x 19mm round."},
 	[2006] = {
-		"http://www.roblox.com/asset/?id=105624958",
-		"Revolver",
-		"The Model 625 is a powerful revolver effective at medium range. Uses a .45 caliber round with a six-round capacity."},
+		"http://www.roblox.com/asset/?id=105624958","Revolver","The Model 625 is a powerful revolver effective at medium range. Uses a .45 caliber round with a six-round capacity."},
 	[2019] = {
-		"http://www.roblox.com/asset/?id=718691860",
-		"Model 29",
-		"The Model 29 is a powerful revolver effective at medium range. Uses a .44 magnum round with a six-round capacity."},
+		"http://www.roblox.com/asset/?id=718691860","Model 29","The Model 29 is a powerful revolver effective at medium range. Uses a .44 magnum round with a six-round capacity."},
 	[2007] = {
-		"http://www.roblox.com/asset/?id=105624971",
-		"USP45",
-		"The USP45 is a powerful handgun effective at medium range. Uses a .45 caliber round with a 12-round magazine."},
+		"http://www.roblox.com/asset/?id=105624971","USP45","The USP45 is a powerful handgun effective at medium range. Uses a .45 caliber round with a 12-round magazine."},
 	[2010] = {
-		"http://www.roblox.com/asset/?id=105624875",
-		"CZ75",
-		"The CZ 75 is a personal-defense handgun effective at medium range. Uses a 9 x 19mm round with a 12-round magazine."},
+		"http://www.roblox.com/asset/?id=105624875","CZ75","The CZ 75 is a personal-defense handgun effective at medium range. Uses a 9 x 19mm round with a 12-round magazine."},
 	[2011] = {
-		"http://www.roblox.com/asset/?id=105624883",
-		"G18",
-		"This fully automatic Glock 18 is a powerful handgun effective at medium range. Uses a 9 x 19mm round."},
+		"http://www.roblox.com/asset/?id=105624883","G18","This fully automatic Glock 18 is a powerful handgun effective at medium range. Uses a 9 x 19mm round."},
 	[2013] = {
-		"http://www.roblox.com/asset/?id=108235186",
-		"Model 459",
-		"The Model 459 is a pistol with a high capacity magazine. Uses a 9 x 19mm round with a 14-round magazine."},
+		"http://www.roblox.com/asset/?id=108235186","Model 459","The Model 459 is a pistol with a high capacity magazine. Uses a 9 x 19mm round with a 14-round magazine."},
 	[2014] = {
-		"http://www.roblox.com/asset/?id=108235167",
-		"CBJ-MS",
-		"The CBJ-MS is a powerful military handgun. Uses a 9 x 19mm round."},
+		"http://www.roblox.com/asset/?id=108235167","CBJ-MS","The CBJ-MS is a powerful military handgun. Uses a 9 x 19mm round."},
 	[2015] = {
-		"http://www.roblox.com/asset/?id=116704751",
-		"Uzi",
-		"The Uzi is a powerful automatic military weapon effective at medium range. Uses a 9 x 19mm round."},
+		"http://www.roblox.com/asset/?id=116704751","Uzi","The Uzi is a powerful automatic military weapon effective at medium range. Uses a 9 x 19mm round."},
 	[2016] = {
-		"http://www.roblox.com/asset/?id=116704747",
-		"M93R",
-		"The M93R is a high-capacity automatic handgun effective at medium range. Uses a 9 x 19mm round."},
+		"http://www.roblox.com/asset/?id=116704747","M93R","The M93R is a high-capacity automatic handgun effective at medium range. Uses a 9 x 19mm round."},
 	[2017] = {
-		"http://www.roblox.com/asset/?id=116704745",
-		"G37",
-		"The G37 is a powerful handgun effective at medium range. Uses a .45 caliber round with a 12-round magazine."},
+		"http://www.roblox.com/asset/?id=116704745","G37","The G37 is a powerful handgun effective at medium range. Uses a .45 caliber round with a 12-round magazine."},
 	[2018] = {
-		"http://www.roblox.com/asset/?id=116704753",
-		"Mk 23",
-		"The Mk 23 is a powerful handgun effective at medium range. Uses a .45 caliber round with a 12-round magazine."},
-    }
+		"http://www.roblox.com/asset/?id=116704753","Mk 23","The Mk 23 is a powerful handgun effective at medium range. Uses a .45 caliber round with a 12-round magazine."},
+    [9007] = {
+		"http://www.roblox.com/asset/?id=110618028",
+	[9008] = {
+		"http://www.roblox.com/asset/?id=110618033",
+	[9009] = {
+		"http://www.roblox.com/asset/?id=110618039",
+	[9010] = {
+		"http://www.roblox.com/asset/?id=110618046",
+	[9011] = {
+		"http://www.roblox.com/asset/?id=116682808",
+	[9001] = {
+		"http://www.roblox.com/asset/?id=110469499",
+	[9002] = {
+		"http://www.roblox.com/asset/?id=110469502",
+	[9003] = {
+		"http://www.roblox.com/asset/?id=110469507",
+	[9004] = {
+		"http://www.roblox.com/asset/?id=110469505",
+	[9013] = {
+		"http://www.roblox.com/asset/?id=116682128",
+	[9014] = {
+		"http://www.roblox.com/asset/?id=116682136",
+	[9005] = {
+		"http://www.roblox.com/asset/?id=110606337",
+	[9006] = {
+		"http://www.roblox.com/asset/?id=110606379",
+	[9012] = {
+		"http://www.roblox.com/asset/?id=116682811",
+    [4001] = {
+		"http://www.roblox.com/asset/?id=114480659","FannyPackTan",
+		"A small frontal pack that allows you to hold up to two extra items."},
+	[4002] = {
+		"http://www.roblox.com/asset/?id=114480661","FannyPackWhite"
+		"A small frontal pack that allows you to hold up to two extra items."},
+	[4003] = {
+		"http://www.roblox.com/asset/?id=114480649","FannyPackBlue"
+		"A small frontal pack that allows you to hold up to two extra items."},
+	[4004] = {
+		"http://www.roblox.com/asset/?id=114480654","FannyPackPurple"
+		"A small frontal pack that allows you to hold up to two extra items."},
+	[4005] = {
+		"http://www.roblox.com/asset/?id=114480677","HikingPackOrange"
+		"A civilian-grade hiking pack that allows you to hold up to four extra items."},
+	[4006] = {
+		"http://www.roblox.com/asset/?id=114480682","HikingPackWhite"
+		"A civilian-grade hiking pack that allows you to hold up to four extra items."},
+	[4007] = {
+		"http://www.roblox.com/asset/?id=114480664","HikingPackBlue",
+		"A civilian-grade hiking pack that allows you to hold up to four extra items."},
+	[4008] = {
+		"http://www.roblox.com/asset/?id=114480673","HikingPackBrown",
+		"A civilian-grade hiking pack that allows you to hold up to four extra items."},
+	[4009] = {
+		"http://www.roblox.com/asset/?id=114480718","SurvivalPackTan",
+		"A high-grade survival backpack that allows you to hold up to six extra items."},
+	[4010] = {
+		"http://www.roblox.com/asset/?id=114480714","SurvivalPackGrey",
+		"A high-grade survival backpack that allows you to hold up to six extra items."},
+	[4011] = {
+		"http://www.roblox.com/asset/?id=114480710","SurvivalPackGreen",
+		"A high-grade survival backpack that allows you to hold up to six extra items."},
+	[4012] = {
+		"http://www.roblox.com/asset/?id=114480706","SurvivalPackBrown",
+		"A high-grade survival backpack that allows you to hold up to six extra items."},
+	[4013] = {
+		"http://www.roblox.com/asset/?id=114480704","MilitaryPackGrime",
+		"A military-grade backpack that allows you to hold up to eight extra items."},
+	[4014] = {
+		"http://www.roblox.com/asset/?id=114480692","MilitaryPackGreen",
+		"A military-grade backpack that allows you to hold up to eight extra items."},
+	[4015] = {
+		"http://www.roblox.com/asset/?id=114480696","MilitaryPackGrey",
+		"A military-grade backpack that allows you to hold up to eight extra items."},
+	[4016] = {
+		"http://www.roblox.com/asset/?id=114480689","MilitaryPackBlack",
+		"A military-grade backpack that allows you to hold up to eight extra items."},
+	[7001] = {
+		"http://www.roblox.com/asset/?id=158600118","A black cowl."},
+
+	[7002] = {
+		"http://www.roblox.com/asset/?id=158600112","A green cowl."},
+	[7003] = {
+		"http://www.roblox.com/asset/?id=158600054","A ranger hat."},
+	[7004] = {
+		"http://www.roblox.com/asset/?id=158600105","A crosshatched fedora."},
+	[7005] = {
+		"http://www.roblox.com/asset/?id=158600134","An English bowler hat."},
+	[7006] = {
+		"http://www.roblox.com/asset/?id=158600136","A biking helmet."},
+	[7007] = {
+		"http://www.roblox.com/asset/?id=158600125","A brown brimmed hat."},
+	[7008] = {
+		"http://www.roblox.com/asset/?id=158600128","A black brimmed hat."},
+	[7009] = {
+		"http://www.roblox.com/asset/?id=158600060","A black pilot helmet."},
+	[7010] = {
+		"http://www.roblox.com/asset/?id=158600056","A green pilot helmet."},
+	[7011] = {
+		"http://www.roblox.com/asset/?id=158600141","A beanie."},
+	[7012] = {
+		"http://www.roblox.com/asset/?id=158600120","A modern cowboy hat."},
+	[7013] = {
+		"http://www.roblox.com/asset/?id=158600052","A red beret."},
+	[7014] = {
+		"http://www.roblox.com/asset/?id=157567175","A Soviet ushanka."},
+	[7015] = {
+		"http://www.roblox.com/asset/?id=158600038","A beret bearing the insignia of Trinity Corporation."},
+	[7016] = {
+		"http://www.roblox.com/asset/?id=158600176","A desert camouflage ballistic helmet."},
+	[7017] = {
+		"http://www.roblox.com/asset/?id=158600173","A jungle camouflage ballistic helmet."},
+	[7018] = {
+		"http://www.roblox.com/asset/?id=158600165","An urban camouflage ballistic helmet."},
+	[7019] = {
+		"http://www.roblox.com/asset/?id=158600171","A spec. ops camouflage ballistic helmet."},
+	[2020] = {
+		"http://www.roblox.com/asset/?id=511084458","A beret awarded to Silenced Squad."},
+	[8001] = {
+		"http://www.roblox.com/asset/?id=158600044","Black shades."},
+	[8002] = {
+		"http://www.roblox.com/asset/?id=158600160","A black bandana."},
+	[8003] = {
+		"http://www.roblox.com/asset/?id=158600107","An eyepatch."},
+	[8004] = {
+		"http://www.roblox.com/asset/?id=158600098","A firefighter's mask."},
+	[8005] = {
+		"http://www.roblox.com/asset/?id=157574948","Grey shades."},
+	[8006] = {
+		"http://www.roblox.com/asset/?id=158600089","Pink horn-rimmed glasses."},
+	[8007] = {
+		"http://www.roblox.com/asset/?id=158600080","A mercenary's mask."},
+	[8008] = {
+		"http://www.roblox.com/asset/?id=158600071","The mask of a mime."},
+	[8009] = {
+		"http://www.roblox.com/asset/?id=158600086","A mask for covert special forces units."},
+	[8010] = {
+		"http://www.roblox.com/asset/?id=158600156","A red bandana."},
+	[8011] = {
+		"http://www.roblox.com/asset/?id=158600149","A renegade bandana."},
+	[8012] = {
+		"http://www.roblox.com/asset/?id=158600093","A hockey mask."},
+	[8013] = {
+		"http://www.roblox.com/asset/?id=158600066","A phantom mask."},
+	[8014] = {
+		"http://www.roblox.com/asset/?id=158600147","A skull bandana."},
+	[3001] = {
+		"http://www.roblox.com/asset/?id=115507847","This watch allows you to know the time of day."},
+	[3002] = {
+		"http://www.roblox.com/asset/?id=84954876","This compass, combined with a map, will assist you in navigating the landscape."},
+	[3003] = {
+		"http://www.roblox.com/asset/?id=84898658","This map displays the entire region. By using the many road signs, it is possible to pinpoint your location and effectively navigate."},
+	[3004] = {
+		"http://www.roblox.com/asset/?id=84963692","This tool is required to move building materials and loot. Without this tool, building materials are useless."},
+	[3005] = {
+		"http://www.roblox.com/asset/?id=115507851","This box of matches can be used to light firepits when the holder is near a placed firepit."},
+	[3006] = {
+		"http://www.roblox.com/asset/?id=115507760","This GPS will allow you to pinpoint your exact position in the region, but only when used with a map. Your location will be displayed automatically upon viewing your map."},
+	[3007] = {
+		"http://www.roblox.com/asset/?id=89008692","You can use these binoculars to identify people and objects from a distance."},
+	[3008] = {
+		"http://www.roblox.com/asset/?id=115337021","You can use this old flashlight to illuminate an area."},
+	[3009] = {
+		"http://www.roblox.com/asset/?id=115381500","You can use this sturdy survival flashlight to illuminate an area."},
+	[3010] = {
+		"http://www.roblox.com/asset/?id=115381473","You can use this powerful military flashlight to illuminate an area."},
+	[3011] = {
+		"http://www.roblox.com/asset/?id=113079441","This hatchet can be used for close-range defense against zombies or players."},
+	[3012] = {
+		"http://www.roblox.com/asset/?id=113089113","This crowbar can be used for close-range defense against zombies or players."},
+	[3013] = {
+		"http://www.roblox.com/asset/?id=113167175","This combat knife can be used for close-range defense against zombies or players."},
+	[3014] = {
+		"http://www.roblox.com/asset/?id=113167150","This sabre can be used for close-range defense against zombies or players."},
+	[3023] = {
+		"http://www.roblox.com/asset/?id=620044636","This katana can be used for close-range defense against zombies or players."},
+	[3015] = {
+		"http://www.roblox.com/asset/?id=115748853","This omnidirectional light can be used to illuminate an area around you while keeping your hands free."},
+	[3016] = {
+		"http://www.roblox.com/asset/?id=116457432","This vehicle jack allows you to turn over flipped vehicles, ing them to a driveable state."},
+	[3017] = {
+		"http://www.roblox.com/asset/?id=131316511","This detonator allows you to activate deployed C4 explosive charges."},
+	[3018] = {
+		"http://www.roblox.com/asset/?id=142319427","This radio will let you listen in to various broadcasts from survivors."},
+	[3020] = {
+		"http://www.roblox.com/asset/?id=115816154","This temporary omnidirectional light illuminates an area around you while keeping your hands free. It can not be picked up once dropped."},
+	[3021] = {
+		"http://www.roblox.com/asset/?id=115816152","This temporary omnidirectional light illuminates an area around you while keeping your hands free. It can not be picked up once dropped."},
+	[3022] = {
+		"http://www.roblox.com/asset/?id=115816144","This temporary omnidirectional light illuminates an area around you while keeping your hands free. It can not be picked up once dropped."},
+}
