@@ -51,6 +51,17 @@ top.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 top.BorderColor3 = Color3.fromRGB(71, 71, 71)
 top.Size = UDim2.new(1, 0, 0, 20)
 
+local close = Instance.new("ImageButton")
+close.Name = "close"
+close.Parent = top
+close.BackgroundTransparency = 1.000
+close.Position = UDim2.new(1, -20, 0, -20)
+close.Size = UDim2.new(0, 20, 0, 20)
+close.ZIndex = 2
+close.Image = "rbxassetid://3926305904"
+close.ImageRectOffset = Vector2.new(284, 4)
+close.ImageRectSize = Vector2.new(24, 24)
+
 title.Name = "title"
 title.Parent = top
 title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
