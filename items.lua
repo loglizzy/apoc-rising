@@ -131,19 +131,19 @@ return {
 		"http://www.roblox.com/asset/?id=114480659","FannyPackTan",
 		"A small frontal pack that allows you to hold up to two extra items."},
 	[4002] = {
-		"http://www.roblox.com/asset/?id=114480661","FannyPackWhite"
+		"http://www.roblox.com/asset/?id=114480661","FannyPackWhite",
 		"A small frontal pack that allows you to hold up to two extra items."},
 	[4003] = {
-		"http://www.roblox.com/asset/?id=114480649","FannyPackBlue"
+		"http://www.roblox.com/asset/?id=114480649","FannyPackBlue",
 		"A small frontal pack that allows you to hold up to two extra items."},
 	[4004] = {
-		"http://www.roblox.com/asset/?id=114480654","FannyPackPurple"
+		"http://www.roblox.com/asset/?id=114480654","FannyPackPurple",
 		"A small frontal pack that allows you to hold up to two extra items."},
 	[4005] = {
-		"http://www.roblox.com/asset/?id=114480677","HikingPackOrange"
+		"http://www.roblox.com/asset/?id=114480677","HikingPackOrange",
 		"A civilian-grade hiking pack that allows you to hold up to four extra items."},
 	[4006] = {
-		"http://www.roblox.com/asset/?id=114480682","HikingPackWhite"
+		"http://www.roblox.com/asset/?id=114480682","HikingPackWhite",
 		"A civilian-grade hiking pack that allows you to hold up to four extra items."},
 	[4007] = {
 		"http://www.roblox.com/asset/?id=114480664","HikingPackBlue",
