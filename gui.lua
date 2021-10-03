@@ -94,4 +94,7 @@ return {new=function(v,e)
     
     UICorner.CornerRadius = UDim.new(0, 2)
     UICorner.Parent = nw
+        
+    nw.Parent = list
+    return nw
     end,list=list,box=box,title=title}
