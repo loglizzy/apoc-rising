@@ -27,6 +27,7 @@ grid.Name = "grid"
 grid.Parent = list
 grid.FillDirection = Enum.FillDirection.Vertical
 grid.SortOrder = Enum.SortOrder.LayoutOrder
+grid.Padding = UDim.new(0,2)
 
 box.Name = "box"
 box.Parent = Frame
