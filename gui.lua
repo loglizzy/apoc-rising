@@ -10,7 +10,7 @@ Frame.Parent = game.CoreGui.RobloxGui
 Frame.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
 Frame.BorderSizePixel = 0
 Frame.ClipsDescendants = true
-Frame.Position = UDim2.new(0.462085336, 0, 0.0984127074, 0)
+Frame.Position = UDim2.new(0.7, 0, 0.1, 0)
 Frame.Size = UDim2.new(0, 374, 0, 229)
 
 list.Name = "list"
