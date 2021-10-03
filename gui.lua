@@ -1,6 +1,6 @@
 local Frame = Instance.new("Frame")
 local list = Instance.new("ScrollingFrame")
-local grid = Instance.new("UIGridLayout")
+local grid = Instance.new("UIListLayout")
 local box = Instance.new("TextBox")
 local UICorner_2 = Instance.new("UICorner")
 local top = Instance.new("Frame")
@@ -27,8 +27,6 @@ grid.Name = "grid"
 grid.Parent = list
 grid.FillDirection = Enum.FillDirection.Vertical
 grid.SortOrder = Enum.SortOrder.LayoutOrder
-grid.CellPadding = UDim2.new(0, 0, 0, 2)
-grid.CellSize = UDim2.new(1, -8, 0, 37)
 
 box.Name = "box"
 box.Parent = Frame
@@ -75,7 +73,7 @@ return {new=function(v,e)
     nw.BackgroundTransparency = 0.600
     nw.BorderSizePixel = 0
     nw.Position = UDim2.new(0.0178571437, 0, 0.104166664, 0)
-    nw.Size = UDim2.new(0, 200, 0, 50)
+    nw.Size = UDim2.new(1, -8, 0, 37)
     nw.Font = Enum.Font.SourceSans
     nw.Text = "                 "..v
     nw.TextColor3 = Color3.fromRGB(0, 0, 0)
